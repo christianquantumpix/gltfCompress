@@ -1,0 +1,2 @@
+gltfpack.exe -h
+pause
